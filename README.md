@@ -8,10 +8,10 @@ The code documentation along with the description and specification can be found
 
 ## Authors
 Student
-<a href = "mailto:student@stud.ntnu.no">student@stud.ntnu.no</a>
+<a href = "mailto:nfsemb@stud.ntnu.no">student@stud.ntnu.no</a>
 
 Student
-<a href = "mailto:student@stud.ntnu.no">student@stud.ntnu.no</a>
+<a href = "mailto:melyso@stud.ntnu.no">student@stud.ntnu.no</a>
 
 Student 
 <a href = "mailto:student@stud.ntnu.no">student@stud.ntnu.no</a>
